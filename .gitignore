@@ -1,0 +1,35 @@
+# Python auto-generated files (from GitHub template)
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.ipynb_checkpoints/
+
+# FastF1 cache — too large to store on GitHub (2-4 GB)
+f1_cache/
+
+# Raw Kaggle source data — re-downloadable, no need to store
+results.csv
+qualifying.csv
+drivers.csv
+constructors.csv
+races.csv
+pit_stops.csv
+constructor_standings.csv
+
+# Virtual environment (if you use one)
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+status.csv
+sprint_results.csv
+seasons.csv
+Record.csv
+lap_times.csv
+driver_standings.csv
+Client.csv
+circuits.csv
